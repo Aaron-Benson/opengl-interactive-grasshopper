@@ -2,12 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/Aaron-Benson/opengl-interactive-grasshopper/master/graphic.png)
 
-This program will uses OpenGL to create an interactable grasshopper that moves around on the screen.
-
-## Running (Windows)
-
-1. Download the executable in build folder.
-2. Run the program.
+This is a simple program using OpenGL to draw a scene of a grasshopper. You are able to control the movement and positioning of the grasshopper by passing input to the program. Transformations are done by using a hierarchy through OpenGL's Vertex Buffer Objects (VBO).
 
 ## Installation 
 
@@ -40,7 +35,7 @@ U - Rotate outer left bottom leg away from head
 
 8 - Rotate inner left top leg toward head
 
-* - Rotate inner left top leg away from head
+'* - Rotate inner left top leg away from head
 
 i - Rotate inner left bottom leg toward head
 
