@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/Aaron-Benson/opengl-interactive-grasshopper/master/graphic.PNG)
 
-This is a simple program using OpenGL to draw a scene of a grasshopper. You are able to control the movement and positioning of the grasshopper by passing input to the program. Transformations are done by using a hierarchy through OpenGL's Vertex Buffer Objects (VBO).
+This is a simple program using OpenGL to draw a scene of a grasshopper. You are able to control the movement and positioning of the grasshopper by passing input to the program. Transformations are done using a hierarchy through OpenGL's Vertex Buffer Objects (VBO).
 
 Programmed in C++.
 
@@ -22,9 +22,9 @@ l - Move the grasshopper to the left
 
 r - Move the grasshopper to the right
 
-t - Turn the grasshopper counter clockwise by 15 degrees each time
+t - Turn the grasshopper counter clockwise by 15 degrees
 
-T - Turn the grasshopper clock wise by 15 degree 
+T - Turn the grasshopper clockwise by 15 degrees
 
 
 7 - Rotate outer left top leg toward head
