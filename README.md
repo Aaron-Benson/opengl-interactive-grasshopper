@@ -4,6 +4,8 @@
 
 This is a simple program using OpenGL to draw a scene of a grasshopper. You are able to control the movement and positioning of the grasshopper by passing input to the program. Transformations are done by using a hierarchy through OpenGL's Vertex Buffer Objects (VBO).
 
+Programmed in C++.
+
 ## Installation 
 
 1. Clone the repository locally.
